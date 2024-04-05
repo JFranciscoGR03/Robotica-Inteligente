@@ -1,3 +1,6 @@
+Student: Juan Francisco García Rodríguez
+Student number: A01660981
+
 Instructions:
 
 Record a video using your computer, save it, and then create a video that plays backwards. Finally, merge both videos into a single file.
