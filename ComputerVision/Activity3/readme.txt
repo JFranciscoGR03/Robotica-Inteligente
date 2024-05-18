@@ -1,5 +1,9 @@
 Activity 3. Object Matching
 
+Students:
+  - Jennifer Lizeth Avendaño Sánchez. A01656951
+  - Juan Francisco García Rodríguez. A01660981
+
 Instructions:
 
 1. Signal Identification:
