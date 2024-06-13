@@ -1,3 +1,8 @@
+Alumnos: 
+- Juan Francisco García Rodríguez
+- Jennifer Avendaño Sánchez
+- Juan Antonio Mancera Velasco
+
 Implementar un control difuso de posición (controlando velocidades angular y lineal) de un robot basado el simulador de TurtleSim.
 
 Tarea 1. Hacer que Turtle2 desde el centro de la pantalla gire hacia Turtle1 en todo momento. (Se puede desactivar la velocidad lineal).
